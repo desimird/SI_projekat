@@ -1,0 +1,4 @@
+name,surname,phone no,type,balance,mins,sms,gb,pass
+desimir,dimovic,0655555,0,0,0,0,0,123
+petar,pertovic,0654444,1,0,12,12,3,123
+petar,pertovic,0653333,0,1000,0,0,0,123
